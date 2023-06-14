@@ -17,6 +17,7 @@
   animation-name: bottom;
   animation-duration: 1s;
   animation-fill-mode: forwards;
+  transform: translate(120px, 50%);
 }
 
 nav {
